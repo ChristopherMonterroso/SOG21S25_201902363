@@ -62,7 +62,7 @@
 - El **pH** se concentra en torno a valores entre 3.0 y 3.4.
 - No se observa un gran cambio de pH entre calidades, aunque se aprecia un ligero desplazamiento a valores más bajos de pH en vinos de menor calidad.
 
-## 6. Conclusiones e Insights
+## 6. Conclusiones
 
 1. **Calidad predominante en 5 y 6**
    La mayoría de los vinos del conjunto de datos se clasifican en una calidad media (5 y 6). Esto indica que el dataset está concentrado en un rango relativamente estrecho de calidad, sin ejemplos de calidades extremadamente altas (9 o 10).
